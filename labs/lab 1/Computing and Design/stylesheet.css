@@ -1,0 +1,56 @@
+.memes { background-color: white;
+margin: 4px;}
+
+.row { 
+margin:auto;
+width: 100%;
+padding-bottom:100px;}
+
+.line 
+{ width: 100%;
+height: 2pt;
+background-color: #512002;}
+
+.coltext
+{ color:antiquewhite;
+font-size: 15pt;
+line-height: 15pt;}
+
+.coltextlink { color: #000000;}
+
+.memes { background-color: white;
+margin: 4px;}
+
+.lower1 {
+	font-size: 8pt;
+	background-color: #003366;
+	padding: 10px;
+	width: 100%;
+}
+
+.lower2 { color: white;
+}
+
+.lowertext { color: #ffffff;
+font-weight: bold;}
+
+.row { 
+margin:auto;
+width: 100%;
+}
+
+h2 {
+	font-size: 38pt;
+	background-color: #003366;
+	padding: 80px;
+	width: 100%;
+	color: white;
+	font-family: "hind", "helvetica Neue", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+	text-align: left;
+}
+
+a { background-color: #003366;
+    color: white;
+    padding: 15px;
+    width: 100%;
+}

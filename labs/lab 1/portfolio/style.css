@@ -1,0 +1,121 @@
+body {
+      background-color: #000000;
+	  font-size: 130%;
+	  color: white;
+	  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+     }
+	
+
+header { background-color: white;    
+         padding: 200px 200px 170px 200px;
+		 background-image: URL(ViridianaLogo-08.png); 
+	     background-repeat: no-repeat;
+		 height: 110px; 
+	     border: solid;
+	     border-color: white;
+	     border-radius: 200px;
+       }
+
+#content { background-color: #ffffff;
+	       text-align: justify;
+           color: #000000;
+		   padding: 18px 23px;
+	       overflow: auto; 
+	       font-size: 100%;
+           width: 950px;
+	       
+	  	   margin: auto;
+	       line-height: 30px;
+	       border-radius: 35px;
+         } 
+	
+h2 { color: #ED6787 ; 
+	text-align: left;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    margin: 5px; 
+	font-size: 190%;
+    line-height: 80px;
+   }
+	
+figure { float: left;
+	width: 270px;
+	height: 370px;
+	border: hidden;
+	border-radius: 40px;
+       }
+img { border-radius: 40px; }
+
+footer { font-size:70%;
+         text-align: left;
+         background-color: #ED6787;
+		 clear: both;
+	     color: white;
+		 border-radius: 100px;
+       }
+	
+
+	div.menu { background-color: #ffffff;
+	overflow: auto;
+	white-space: nowrap; 
+	border-radius: 100px;
+		text-align: center;
+		font-size: 100%;
+		font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+		
+	}
+	
+	div.menu a { display: inline-block;
+	color: white;
+	padding: 1px 2px 10px 15px;
+	text-decoration: none;
+	border-radius: 80px;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+		
+	}
+	
+	div.menu a:hover { background-color: #ED6787;}
+    
+    table { display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: black;
+    vertical-align: middle;
+    margin: 0px auto;
+    }
+    
+    tbody { display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    }
+    
+    #table-header { 
+    	background-color: #75A5CF;
+    }
+    
+    tr { 
+    	display: table-row;
+    	vertical-align: inherit;
+    	border-color: inherit;
+    }
+    
+    td { 
+    	padding-right: 20px;
+    	font-size: 120%;
+   
+    } 
+    
+    .table-row { 
+    	background-color: #75A5CF;
+    } 
+    
+    ul {
+    	text-align: left;
+    	padding-left: 200px;
+    }
+    
+    .hobby { color: #75A5CF;
+    font-weight: bold;
+    	
+    }

@@ -1,0 +1,14 @@
+[06-Sep-2018 17:38:07 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 12
+[06-Sep-2018 18:05:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 30
+[06-Sep-2018 18:05:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 30
+[06-Sep-2018 18:05:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 30
+[06-Sep-2018 18:06:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 30
+[06-Sep-2018 18:06:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 30
+[06-Sep-2018 18:08:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 30
+[06-Sep-2018 18:10:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 35
+[06-Sep-2018 18:45:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 56
+[06-Sep-2018 18:45:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 56
+[06-Sep-2018 18:46:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 56
+[06-Sep-2018 18:47:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 56
+[06-Sep-2018 18:48:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 56
+[06-Sep-2018 19:11:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/Lab 2/index.php on line 56
